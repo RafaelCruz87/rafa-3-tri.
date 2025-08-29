@@ -14,7 +14,9 @@
         //Variavel = Uma caixa que guarda informações no caso 'titulo'
         //insira seu código JavaScript
         const titulo = document.getElementById('título')
+        const elemento = document.getElementById('elemento')
         console.log(titulo.textContent)
+        console.log(element.textContent)
 
 
     </script>    
